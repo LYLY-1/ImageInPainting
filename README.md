@@ -1,5 +1,6 @@
 # ImageInPainting
-This is a computer vision project. The topic is portrait image restoration
+This is a computer vision project. The topic of this project is portrait image restoration using Generative Adversarial Networks.
+
 
 Facial inpainting is a process
 restore the missing, damaged parts in the leg image
